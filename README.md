@@ -8,7 +8,7 @@ Java JDK 8+
 
 # Usage
 
-download the release from [here](https://github.com/emilmichaiel/SimpleBTCAddressGenerator/releases/tag/1.0-SNAPSHOT)
+download the release from [here](https://github.com/emilmichaiel/SimpleETHAddressGenerator/releases/)
 
 ```sh
 java -jar ETHAddressGenerator.jar
